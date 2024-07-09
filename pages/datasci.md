@@ -6,8 +6,8 @@ layout: default
 
 ![linreg](../assets/k-means_linreg.png)
 
-[Code]
+[Code](../projects/kmeans.py)
 
 ![multilinreg](../assets/MultiregGraph.png)
 
-[Code]
+[Code](../projects/multireg.py)

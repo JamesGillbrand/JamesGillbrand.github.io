@@ -4,7 +4,7 @@ layout: default
 
 # 162 Homework
 
-[HWK 6](./files/162_HWK_6.pdf)
+[HWK 6](jamesgillbrand.github.io/files/162_HWK_6.pdf)
 
 [HWK 7](./files/162_HWK_7.pdf)
 

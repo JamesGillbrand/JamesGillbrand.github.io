@@ -2,5 +2,9 @@
 layout: default
 ---
 
-Text can be **bold** or _italic_ or ~~strikethrough~~
+#Page Links#
 
+[Honors Calculus Homework](./16XHWK.html).
+[Data Science Work](./datasci.html).
+[REU Materials and Notes](./REUstuff.html).
+[REU Paper](./REUpaper.html).

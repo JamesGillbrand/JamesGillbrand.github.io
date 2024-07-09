@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 162 Homework
 
 [HWK 6](./files/162_HWK_6.pdf)

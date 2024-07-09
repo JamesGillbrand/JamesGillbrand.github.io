@@ -12,7 +12,8 @@ collections:
   posts:
     output          : true
 theme: jekyll-theme-minimal
-
+title: James Gillbrand
+description: Student at the University of Chicago
 # Handling Reading
 safe                : false
 include             : [".htaccess"]

@@ -4,10 +4,10 @@ layout: default
 
 # Page Links
 
-[Honors Calculus Homework](./16XHWK.html).
+[Honors Calculus Homework](./pages/16XHWK.html)
 
-[Data Science Work](./datasci.html).
+[Data Science Work](./pages/datasci.html)
 
-[REU Materials and Notes](./REUstuff.html).
+[REU Materials and Notes](./pages/REUstuff.html)
 
-[REU Paper](./REUpaper.html).
+[REU Paper](./pages/REUpaper.html)

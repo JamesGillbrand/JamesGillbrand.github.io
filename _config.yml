@@ -14,6 +14,8 @@ collections:
 theme: jekyll-theme-minimal
 title: James Gillbrand
 description: Student at the University of Chicago
+logo: assets/Headshot.jpeg
+
 # Handling Reading
 safe                : false
 include             : [".htaccess"]

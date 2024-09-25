@@ -14,8 +14,6 @@ I am James Gillbrand, an undergraduate Applied Math and Economics student at the
 
 [Data Science Work](./pages/datasci.md)
 
-[REU Materials and Notes](./pages/REUstuff.md)
-
-[REU Paper](./files/Gillbrand.pdf)
+<a href="./files/REUNotes.pdf" target="_blank">REU Notes</a>
 
 <a href="./files/Gillbrand.pdf" target="_blank">REU Paper</a>

@@ -17,3 +17,5 @@ I am James Gillbrand, an undergraduate Applied Math and Economics student at the
 [REU Materials and Notes](./pages/REUstuff.md)
 
 [REU Paper](./files/Gillbrand.pdf)
+
+<a href="./files/Gillbrand.pdf" target="_blank">REU Paper</a>

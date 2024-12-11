@@ -12,7 +12,7 @@ I am James Gillbrand, an undergraduate Applied Math and Economics student at the
 
 [Linear Algebra Work](./pages/LinHWK.md)
 
-[Accelerated Analysis 1](./pages/203HWK.md)
+[Accelerated Analysis 1](./pages/MATH20310.md)
 
 [Data Science Work](./pages/datasci.md)
 

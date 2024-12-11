@@ -8,9 +8,11 @@ I am James Gillbrand, an undergraduate Applied Math and Economics student at the
 
 # Page Links
 
-[Honors Calculus Homework](./pages/16XHWK.md)
+[Honors Calculus Work](./pages/16XHWK.md)
 
-[Linear Algebra Homework](./pages/LinHWK.md)
+[Linear Algebra Work](./pages/LinHWK.md)
+
+[Accelerated Analysis 1](./pages/203HWK.md)
 
 [Data Science Work](./pages/datasci.md)
 

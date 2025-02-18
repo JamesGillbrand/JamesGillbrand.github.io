@@ -4,11 +4,14 @@ layout: default
 
 # About
 
-I am James Gillbrand, an undergraduate Applied Math and Economics student at the University of Chicago. This website is a collection of my work from classes, personal projects, and other programs. A large chunk of the work as of now are my typset math problem sets with LaTeX, but I hope to fill it out with some personal python projects, write-ups, and my REU notes and paper.
+I am James Gillbrand, an undergraduate Applied Math and Economics student at the University of Chicago. This website is a collection of my work from classes, personal projects, and other programs. 
 
 # Featured
-
+A two dimensional particle physics simulator in Python with support for force functions other than simple gravitational forces. I hope to soon apply this as a visualization method for understanding dynamical systems.
 ![particlesimulator](/assets/swarm_simulation.gif)
+
+[Visit My Repository]([https://github.com/your-username/your-repo](https://github.com/JamesGillbrand/ParticleSimulator))
+
 
 # Page Links
 

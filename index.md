@@ -10,7 +10,7 @@ I am James Gillbrand, an undergraduate Applied Math and Economics student at the
 A two dimensional particle physics simulator in Python with support for force functions other than simple gravitational forces. I hope to soon apply this as a visualization method for understanding dynamical systems.
 ![particlesimulator](/assets/swarm_simulation.gif)
 
-[Visit My Repository]([https://github.com/your-username/your-repo](https://github.com/JamesGillbrand/ParticleSimulator))
+[Visit My Repository]((https://github.com/JamesGillbrand/ParticleSimulator))
 
 
 # Page Links

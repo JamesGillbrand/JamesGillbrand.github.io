@@ -15,11 +15,11 @@ A two dimensional particle physics simulator in Python with support for force fu
 
 # Page Links
 
-[Honors Calculus Work](./pages/16XHWK.md)
+[//]: # ([Honors Calculus Work](./pages/16XHWK.md))
 
-[Linear Algebra Work](./pages/LinHWK.md)
+[//]: # ([Linear Algebra Work](./pages/LinHWK.md))
 
-[Accelerated Analysis 1](./pages/MATH20310.md)
+[Real Analysis Work (Baby Rudin)](./pages/MATH20310.md)
 
 [Data Science Work](./pages/datasci.md)
 

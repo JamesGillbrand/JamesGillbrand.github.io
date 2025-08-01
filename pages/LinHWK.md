@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: blank
 ---
 
 # 20250 Homework

@@ -21,7 +21,7 @@ _A survey experiment exploring the effects of education on preference for differ
 # Programs
 
 ### [Algorithmic Pricing Model](./pages/Collusion.html)
-*Python, July 2025*  
+*Python, 2025*  
 _Simulation of an oligopoly employing Q-learning algorithms to set prices. This model often demonstrates how this scenario can result in supra-competitive pricing, parrallel behavior, and tacit collusion._ 
 [![algorithmiccollusion1](/assets/Prices.PNG)](./pages/Collusion.html)
 [![algorithmiccollusion2](/assets/Profits.PNG)](./pages/Collusion.html)
@@ -29,7 +29,7 @@ _Simulation of an oligopoly employing Q-learning algorithms to set prices. This 
 [Visit My Repository](https://github.com/JamesGillbrand/AlgorithmicCollusion)
 
 ### [Particle Physics Simulator](https://github.com/JamesGillbrand/ParticleSimulator)
-*Python, February 2025*
+*Python, 2025*  
 _A two dimensional particle physics simulator in Python with support for force functions other than simple gravitational forces._
 ![particlesimulator](/assets/swarm_simulation.gif)
 

@@ -21,7 +21,7 @@ _A survey experiment exploring the effects of education on preference for differ
 # Programs
 
 ### [Algorithmic Pricing Model](./pages/Collusion.html)
-**Python, 2025** 
+**Python, 2025**  
 _Simulation of an oligopoly employing Q-learning algorithms to set prices. This model often demonstrates how this scenario can result in supra-competitive pricing, parrallel behavior, and tacit collusion._ 
 [![algorithmiccollusion1](/assets/Prices.PNG)](./pages/Collusion.html)
 [![algorithmiccollusion2](/assets/Profits.PNG)](./pages/Collusion.html)

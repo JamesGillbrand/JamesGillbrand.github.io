@@ -10,7 +10,7 @@ I am James Gillbrand, an undergraduate Applied Math and Economics student at the
 # Featured
 
 ### [Increased Comprehension of Ranked Choice Voting Leads to Increased Satisfaction with RCV Election Outcomes](./files/ssi_2025_final_paper_v1.pdf)
-*University of Chicago, 2025*  
+*University of Chicago, 2025*   
 _A survey experiment exploring the effects of education on preference for different voting systems. Created in collaboration with the rest of my Social Science Inquiry class and Professor Andrew Eggers._  
 <iframe src="./files/ssi_2025_final_paper_v1.pdf" width="100%" height="600px">
     This browser does not support PDFs. Please download the PDF to view it: 
@@ -21,7 +21,7 @@ _A survey experiment exploring the effects of education on preference for differ
 # Programs
 
 ### [Algorithmic Pricing Model](./pages/Collusion.html)
-*Python, July 2025*
+*Python, July 2025*  
 _Simulation of an oligopoly employing Q-learning algorithms to set prices. This model often demonstrates how this scenario can result in supra-competitive pricing, parrallel behavior, and tacit collusion._ 
 [![algorithmiccollusion1](/assets/Prices.PNG)](./pages/Collusion.html)
 [![algorithmiccollusion2](/assets/Profits.PNG)](./pages/Collusion.html)

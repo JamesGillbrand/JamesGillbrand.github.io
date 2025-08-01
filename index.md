@@ -6,14 +6,19 @@ layout: default
 
 I am James Gillbrand, an undergraduate Applied Math and Economics student at the University of Chicago. This website is a collection of my work from classes, personal projects, and other programs. 
 
-# Featured
-A two dimensional particle physics simulator in Python with support for force functions other than simple gravitational forces. I hope to soon apply this as a visualization method for understanding dynamical systems.
+# Programs
+Simulation of an oligopoly employing Q-learning algorithms to set prices. This model often demonstrates how this scenario can result in supra-competitive pricing, parrallel behavior, and tacit collusion. 
+![algorithmiccollusion](/assets/collusion_graph.png)
+
+[Visit My Repository](https://github.com/JamesGillbrand/AlgorithmicCollusion)
+
+A two dimensional particle physics simulator in Python with support for force functions other than simple gravitational forces. 
 ![particlesimulator](/assets/swarm_simulation.gif)
 
 [Visit My Repository](https://github.com/JamesGillbrand/ParticleSimulator)
 
 
-# Page Links
+# Papers
 
 [//]: # ([Honors Calculus Work](./pages/16XHWK.md))
 

@@ -24,7 +24,7 @@ A two dimensional particle physics simulator in Python with support for force fu
 
 ### [Increased Comprehension of Ranked Choice Voting Leads to Increased Satisfaction with RCV Election Outcomes](./files/ssi_2025_final_paper_v1.pdf)
 *University of Chicago, 2025*  
-_A survey experiment exploring the effects of education on preference for different voting systems._  
+_A survey experiment exploring the effects of education on preference for different voting systems. Created in collaboration with the rest of my Social Science Inquiry class and Professor Andrew Eggers._  
 [PDF ↗](./files/ssi_2025_final_paper_v1.pdf)
 
 ---

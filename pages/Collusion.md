@@ -4,7 +4,7 @@ layout: default
 
 # Algorithmic Collusion Modeling Project
 
-Below is an example output from my model of three firms utilizing Q-learning algorithims to choose prices. Nearly all of the time my model yields results that strongly suggest collusion has been taking place despite the algorithms training only on the premise of maximising profit. 
+Below is an example output from my model of three firms utilizing Q-learning algorithims to choose prices. Nearly all of the time my model yields results that strongly suggest collusion has been taking place despite the algorithms training only on the premise of maximising profit. As you can see in this examples, the firms nearly converge to the optimal monopoly price.
 
 [![Final Collusion Graph](../assets/final_collusion_graph.png)](../assets/final_collusion_graph.png)
 

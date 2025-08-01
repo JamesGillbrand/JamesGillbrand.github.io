@@ -8,8 +8,8 @@ I am James Gillbrand, an undergraduate Applied Math and Economics student at the
 
 # Programs
 Simulation of an oligopoly employing Q-learning algorithms to set prices. This model often demonstrates how this scenario can result in supra-competitive pricing, parrallel behavior, and tacit collusion. 
-[![algorithmiccollusion1](/assets/Prices.PNG)](./pages/Collusion.md)
-[![algorithmiccollusion2](/assets/Profits.PNG)](./pages/Collusion.md)
+[![algorithmiccollusion1](/assets/Prices.PNG)](./pages/Collusion.html)
+[![algorithmiccollusion2](/assets/Profits.PNG)](./pages/Collusion.html)
 
 [Visit My Repository](https://github.com/JamesGillbrand/AlgorithmicCollusion)
 

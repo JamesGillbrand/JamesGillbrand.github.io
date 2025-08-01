@@ -23,6 +23,22 @@ A two dimensional particle physics simulator in Python with support for force fu
 
 # Papers
 
+### [The Effects of Competition Regulation on Consumer Welfare](./files/Regulation_on_CPI.pdf)
+*University of Chicago, 2025*  
+_A study exploring whether competition regulation, in countries around the world, has a causal effect on the consumer price index (CPI)._  
+[PDF ↗](./files/Regulation_on_CPI.pdf)
+
+---
+
+### [Connections Between Hamiltonian Mechanics and Descent Methods](./files/Gillbrand.pdf)
+*University of Chicago, 2024*  
+_Research into how modern gradient descent methods can be intuitively reached from classic Hamiltonian Mechanics._  
+[PDF ↗](./files/Gillbrand.pdf)
+
+---
+
+
+
 [//]: # ([Honors Calculus Work](./pages/16XHWK.md))
 
 [//]: # ([Linear Algebra Work](./pages/LinHWK.md))

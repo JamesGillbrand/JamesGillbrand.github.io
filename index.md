@@ -22,6 +22,13 @@ A two dimensional particle physics simulator in Python with support for force fu
 
 # Papers
 
+### [Increased Comprehension of Ranked Choice Voting Leads to Increased Satisfaction with RCV Election Outcomes](./files/ssi_2025_final_paper_v1.pdf)
+*University of Chicago, 2025*  
+_A survey experiment exploring the effects of education on preference for different voting systems._  
+[PDF ↗](./files/ssi_2025_final_paper_v1.pdf)
+
+---
+
 ### [The Effects of Competition Regulation on Consumer Welfare](./files/Regulation_on_CPI.pdf)
 *University of Chicago, 2025*  
 _A study exploring whether competition regulation, in countries around the world, has a causal effect on the consumer price index (CPI)._  

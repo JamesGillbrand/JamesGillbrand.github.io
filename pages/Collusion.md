@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 ---
 
 # Algorithmic Collusion Modeling Project

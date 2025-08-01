@@ -19,10 +19,13 @@ A two dimensional particle physics simulator in Python with support for force fu
 
 [//]: # ([Linear Algebra Work](./pages/LinHWK.md))
 
+<a href="./files/Regulation_on_CPI.pdf" target="_blank">Competition Regulation Effects on CPI</a>
+
+<a href="./files/Gillbrand.pdf" target="_blank">Links Between Physical Inegrators and Gradient Descent Methods</a>
+
 [Real Analysis Work (Baby Rudin)](./pages/MATH20310.md)
 
-[Data Science Work](./pages/datasci.md)
+[//]: # [Data Science Work](./pages/datasci.md)
 
-<a href="./files/REUNotes.pdf" target="_blank">REU Notes</a>
+[//]: # <a href="./files/REUNotes.pdf" target="_blank">REU Notes</a>
 
-<a href="./files/Gillbrand.pdf" target="_blank">REU Paper</a>

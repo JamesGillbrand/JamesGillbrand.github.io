@@ -12,7 +12,11 @@ I am James Gillbrand, an undergraduate Applied Math and Economics student at the
 ### [Increased Comprehension of Ranked Choice Voting Leads to Increased Satisfaction with RCV Election Outcomes](./files/ssi_2025_final_paper_v1.pdf)
 *University of Chicago, 2025*  
 _A survey experiment exploring the effects of education on preference for different voting systems. Created in collaboration with the rest of my Social Science Inquiry class and Professor Andrew Eggers._  
-[PDF ↗](./files/ssi_2025_final_paper_v1.pdf)
+<iframe src="/assets/files/your-file.pdf" width="100%" height="600px">
+    This browser does not support PDFs. Please download the PDF to view it: 
+    <a href="/assets/files/your-file.pdf">Download PDF</a>.
+</iframe>
+
 
 # Programs
 

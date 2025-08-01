@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<link rel="stylesheet" href="/assets/css/style.css">
+
 # About
 
 I am James Gillbrand, an undergraduate Applied Math and Economics student at the University of Chicago. This website is a collection of my work from classes, personal projects, and other programs. 
